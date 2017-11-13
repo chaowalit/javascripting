@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ex4",
+            "program": "${workspaceFolder}/functional-javascript/ex4.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ex1",
+            "program": "${workspaceFolder}/functional-javascript/ex1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ex2",
+            "program": "${workspaceFolder}/functional-javascript/ex2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ex3",
+            "program": "${workspaceFolder}/functional-javascript/ex3.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Ex5",
+            "program": "${workspaceFolder}/functional-javascript/ex5.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "lab1",
+            "program": "${workspaceFolder}/lab1.js"
+        }
+    ]
+}
